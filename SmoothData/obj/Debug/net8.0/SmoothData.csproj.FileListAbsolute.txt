@@ -1,0 +1,16 @@
+C:\Users\cx\RiderProjects\SmoothData\bin\Debug\net8.0\SmoothData.exe
+C:\Users\cx\RiderProjects\SmoothData\bin\Debug\net8.0\SmoothData.deps.json
+C:\Users\cx\RiderProjects\SmoothData\bin\Debug\net8.0\SmoothData.runtimeconfig.json
+C:\Users\cx\RiderProjects\SmoothData\bin\Debug\net8.0\SmoothData.dll
+C:\Users\cx\RiderProjects\SmoothData\bin\Debug\net8.0\SmoothData.pdb
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.AssemblyInfoInputs.cache
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.AssemblyInfo.cs
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.csproj.CoreCompileInputs.cache
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.dll
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\refint\SmoothData.dll
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.pdb
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.genruntimeconfig.cache
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\ref\SmoothData.dll
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\cx\RiderProjects\SmoothData\obj\Debug\net8.0\SmoothData.csproj.ResolveComReference.cache
